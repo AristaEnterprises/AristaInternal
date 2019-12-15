@@ -1,6 +1,8 @@
-## Arista Enterprises Internal Projects
+## Arista Enterprises Website
 
-These are all first-party projects. Any project not made for a customer should go here.
+This is the main website of Arista.
+The final website is planned to have connection to our future help desk.
+Other than that, the website provides information about us and our services.
 
 ### Visit Us
 
