@@ -9,11 +9,9 @@ BIG CHANGESET
 4. Small fixes
 -----------------------------------------------------------
 Active Plugins:
--W3 Total Cache
-
--White Label CMS
-
--Wordpress Importer
+1.W3 Total Cache
+2.White Label CMS
+3.Wordpress Importer
 -----------------------------------------------------------
 Site theme framework: Underscores
 (c) 2019 Arista Enterprises
