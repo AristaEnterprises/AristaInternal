@@ -2,8 +2,6 @@
 
 Theme: Modified Underscores
 
-Google PageSpeed Insights API Key: AIzaSyBagQqaLwcMiEY64zKLtlNaaboEpaYH-Jg
-
 Plugins:
 	- W3 Total Cache
 		** Note: do NOT enable lazy loading, it ruins header image
